@@ -24,7 +24,9 @@ To identify phishing characteristics in a suspicious email.
 - They provided a random Domain name which is related to security thats all.
 - they used microsoft smtp server id in their Header means must have been compromized.
 - Senders IP -89.144.9.91 and has checked for black listed ip address from https://www.virustotal.com/gui/home/url may be its a newly generated Spoof mail/Phishing mail from new Hacker or used a compromised user.
-- 
+- The mail hase no urgent or threatening language but was a Triggerring one unaware users could have been a Victum to this mail.
+- The Language and Grammer used was clearly unproffessional hence can be identified as a Phishing mail "A user from Russia/Moscow just logged into your account from a new device, If this wasn't you, please report the user. If this was you, we'll trust similar activity in the future.". 
+- Found that the URL attached to email is an Phishing URL which is black listed by 3 defender or security applications.
 
 ## Outcome
 Gained practical experience in identifying phishing tactics, analyzing email headers, and understanding how social engineering is used in email-based attacks.
