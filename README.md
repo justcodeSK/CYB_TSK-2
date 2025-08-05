@@ -14,8 +14,7 @@ To identify phishing characteristics in a suspicious email.
 ## Key Findings of sample 1039(some screen shorts are used to learn with other samples i will provide the samples i used in the same repository)
 - Spoofed email: `no-reply@access-accsecurity.com`, ''
 - Header shows mismatched IP and sending domain
-- Link points to: `http://login-update.paypall-login.com` (not PayPal)
-- Urgent language: "Your account will be suspended!"
+- Message ID foun- 	<2f661a40-f9bc-43ee-a7a8-7fc67e7b8128@VI1EUR02FT049.eop-EUR02.prod.protection.outlook.com>
 - Grammar mistakes present "Microsoft account unusual signin activity" the account A wasent capitalized and microsoft dosenot send mails form a domain like "access-accsecurity" correct ones are "is microsoft.com, entra.microsoft.com and azure.com"
 - Fake branding
 - no valied domain found
