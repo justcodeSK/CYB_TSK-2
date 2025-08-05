@@ -30,5 +30,8 @@ To identify phishing characteristics in a suspicious email.
 Gained practical experience in identifying phishing tactics, analyzing email headers, and understanding how social engineering is used in email-based attacks.
 
 ## Screenshots
-- Header analysis result CYB_TSK-2/email analysis 1.png, 
-- Email body
+- Header analysis result
+  email analysis 1.png
+  email analysis 2.png
+  email analysis 3.png
+- Email body- Attached in repository.
