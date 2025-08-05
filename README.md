@@ -31,7 +31,8 @@ To identify phishing characteristics in a suspicious email.
 
 ## Outcome
 Gained practical experience in identifying phishing tactics, analyzing email headers, and understanding how social engineering is used in email-based attacks.
-
+##Personal Openion
+- EML Analyzer and VirusTotal are much better tools than others, Google Admin Lookups are also good.
 ## Screenshots
 - Header analysis result `email analysis 1.png`
   `email analysis 1.png`
