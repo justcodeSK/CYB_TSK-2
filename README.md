@@ -11,7 +11,8 @@ To identify phishing characteristics in a suspicious email.
 - EML Analyzer https://eml-analyzer.herokuapp.com/
 - URLScan https://urlscan.io/
 
-## Key Findings of sample 1039(some screenshots are used to learn with other samples i will provide the samples i used in the same repository)
+## Key Findings of sample 1039 
+### (Some screenshots provided are from Sample-1, which I used to learn, along with Sample-1039. I will include the samples I used in the same repository)
 - Spoofed email: `no-reply@access-accsecurity.com`, ''
 - Header shows mismatched IP and sending domain
 - Message ID found- 	<2f661a40-f9bc-43ee-a7a8-7fc67e7b8128@VI1EUR02FT049.eop-EUR02.prod.protection.outlook.com>
