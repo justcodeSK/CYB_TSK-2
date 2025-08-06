@@ -39,3 +39,6 @@ Gained practical experience in identifying phishing tactics, analyzing email hea
   `email analysis 2.png`
   `email analysis 3.png`
 - Email body- Attached in repository.
+## Sample Email
+- sample-1.txt
+- sample-1039.txt
