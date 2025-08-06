@@ -23,7 +23,9 @@ To identify phishing characteristics in a suspicious email.
 - dkim (domain key identified mail) email message was not digitally signed with DomainKeys "dkim=none (message not signed)".
 - They provided a random Domain name which is related to security that's all.
 - they used Microsoft SMTP server id in their Header means must have been compromised.
-- Senders IP -89.144.9.91 and has checked for blacklisted IP address from https://www.virustotal.com/gui/home/url may be it's a newly generated Spoof mail/Phishing mail from new Hacker or used a compromised user.
+- Senders IP -89.144.9.91 and has checked for blacklisted IP address (DNSBL) from https://www.virustotal.com/gui/home/url may be it's a newly generated Spoof mail/Phishing mail from new Hacker or used a compromised user.
+- SPF(Sender Polacy framework) authentication is shown in EML analyzer.
+- Found Several Red Flags on this Email Header and body.
 - The mail has no urgent or threatening language but was a Triggering one unaware users could have been a Victim to this mail.
 - The Language and Grammar used was clearly unprofessional hence can be identified as a Phishing mail "A user from Russia/Moscow just logged into your account from a new device, If this wasn't you, please report the user. If this was you, we'll trust similar activity in the future.".
 - Mainly the Extracted IP address (103.225.77.255) is an INDIAN origin hence it's clear that it's not from Russia/Moscow.
